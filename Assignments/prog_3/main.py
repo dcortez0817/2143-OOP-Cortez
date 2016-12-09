@@ -1,4 +1,5 @@
-from PIL import imageEdit
+import imageEdit
+from PIL import Image
 import urllib, cStringIO
 import random
 
